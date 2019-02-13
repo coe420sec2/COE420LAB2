@@ -21,6 +21,12 @@ public class COE420LAB2 {
     public static void main(String[] args) {
         // TODO code application logic here
         addFeatureA();
+                addFeatureB();
+
+    }
+
+    private static void addFeatureB() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
     
 }
