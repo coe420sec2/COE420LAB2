@@ -21,7 +21,7 @@ public class COE420LAB2 {
     public static void main(String[] args) {
         // TODO code application logic here
         addFeatureA();
-                addFeatureB();
+        addFeatureB();
 
     }
 
